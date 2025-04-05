@@ -59,7 +59,11 @@ Built with scikit-learn.
 
 💡 How to Improve
 Improvement Idea	Tool/Method
+
 Try other algorithms	SVM, Random Forest
+
 Optimize performance	Hyperparameter Tuning
+
 Robust validation	Cross-Validation (K-Fold)
+
 Feature engineering	PCA, Feature Scaling
