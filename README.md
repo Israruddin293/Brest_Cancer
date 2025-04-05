@@ -5,16 +5,6 @@
 
 ---
 
-## 📋 Table of Contents  
-- [Description](#-description)  
-- [Installation](#-installation)  
-- [Usage](#-usage)  
-- [Results](#-results)  
-- [Acknowledgments](#-acknowledgments)  
-- [How to Improve](#-how-to-improve)  
-
----
-
 ## 🧐 Description  
 A machine learning model to classify breast tumors using the [Breast Cancer Wisconsin Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).  
 - **Algorithm**: Gaussian Naïve Bayes  
